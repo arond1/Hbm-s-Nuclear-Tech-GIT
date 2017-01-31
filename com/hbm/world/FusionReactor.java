@@ -39,7 +39,7 @@ public class FusionReactor extends WorldGenerator
 	{
 		x -= 8;
 		z -= 8;
-		
+		// The author don't know the loop for() ......
 		world.setBlock(x + 0, y + 0, z + 0, Blocks.air, 0, 3);
 		world.setBlock(x + 1, y + 0, z + 0, Blocks.air, 0, 3);
 		world.setBlock(x + 2, y + 0, z + 0, Blocks.air, 0, 3);
